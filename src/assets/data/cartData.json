@@ -1,0 +1,142 @@
+{
+    "cartData": {
+        "totalMoney": 109,
+        "list": [{
+                "productId": "600100002115",
+                "productName": "黄鹤楼香烟",
+                "productPrice": 19,
+                "productQuantity": 1,
+                "productImage": "../img/goods-1.jpg",
+                "parts": [{
+                    "partsId": "10001",
+                    "partsName": "打火机",
+                    "imgSrc": "../img/part-1.jpg"
+                }]
+            },
+            {
+                "productId": "600100002120",
+                "productName": "加多宝",
+                "productPrice": 8,
+                "productQuantity": 5,
+                "productImage": "../img/goods-2.jpg",
+                "parts": [{
+                    "partsId": "20001",
+                    "partsName": "吸管",
+                    "imgSrc": "../img/part-2.jpg"
+                }]
+            },
+            {
+                "productId": "600100002117",
+                "productName": "金装黄鹤楼",
+                "productPrice": 25,
+                "productQuantity": 2,
+                "productImage": "../img/goods-1.jpg",
+                "parts": [{
+                        "partsId": "10001",
+                        "partsName": "打火机-1",
+                        "imgSrc": "../img/part-1.jpg"
+                    },
+                    {
+                        "partsId": "10002",
+                        "partsName": "打火机-2",
+                        "imgSrc": "../img/part-1.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "cart": {
+        "totalHoney": 59,
+        "list": [{
+                "name": "面具1",
+                "price": 19,
+                "count": 1,
+                "amount": 19,
+                "imgPic": "../img/test.jpg",
+                "gifts": [{
+                        "partId": "10001",
+                        "partName": "打火机"
+                    },
+                    {
+                        "partId": "10002",
+                        "partName": "火柴"
+                    }
+                ]
+            },
+            {
+                "name": "面具2",
+                "price": 20,
+                "count": 1,
+                "amount": 20,
+                "imgPic": "../img/test1.jpg",
+                "gifts": [{
+                        "partId": "10001",
+                        "partName": "打火机"
+                    },
+                    {
+                        "partId": "10002",
+                        "partName": "火柴盒"
+                    }
+                ]
+            },
+            {
+                "name": "面具3",
+
+                "price": 20,
+                "count": 1,
+                "amount": 20,
+                "imgPic": "../img/test1.jpg",
+                "gifts": [{
+                        "partId": "10001",
+                        "partName": "打火机"
+                    },
+                    {
+                        "partId": "10002",
+                        "partName": "火柴盒"
+                    }
+                ]
+            }
+        ]
+    },
+    "address": [{
+            "addressId": "100001",
+            "userName": "JackBean",
+            "streetName": "北京市朝阳区朝阳公园1",
+            "postCode": "100001",
+            "tel": "12345678901",
+            "isDefault": true
+        },
+        {
+            "addressId": "100002",
+            "userName": "JackBean",
+            "streetName": "北京市朝阳区朝阳公园2",
+            "postCode": "100001",
+            "tel": "12345678901",
+            "isDefault": false
+        },
+        {
+            "addressId": "100003",
+            "userName": "JackBean",
+            "streetName": "北京市朝阳区朝阳公园3",
+            "postCode": "100001",
+            "tel": "12345678901",
+            "isDefault": false
+        },
+        {
+            "addressId": "100004",
+            "userName": "JackBean",
+            "streetName": "北京市朝阳区朝阳公园4",
+            "postCode": "100001",
+            "tel": "12345678901",
+            "isDefault": false
+        },
+        {
+            "addressId": "100005",
+            "userName": "JackBean",
+            "streetName": "北京市朝阳区朝阳公园5",
+            "postCode": "100001",
+            "tel": "12345678901",
+            "isDefault": false
+        }
+    ]
+}
